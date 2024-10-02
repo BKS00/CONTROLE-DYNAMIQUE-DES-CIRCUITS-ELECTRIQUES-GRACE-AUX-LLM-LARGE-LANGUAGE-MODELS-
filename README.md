@@ -55,7 +55,7 @@ Ce code est mis à disposition sous la licence [MIT](LICENSE).
 
 ## Contact
 
-Pour toute question, veuillez contacter [votre adresse email].
+Pour toute question, veuillez contacter [balembasalomon2003@gmail.com].
 
 
 ## Remerciements
