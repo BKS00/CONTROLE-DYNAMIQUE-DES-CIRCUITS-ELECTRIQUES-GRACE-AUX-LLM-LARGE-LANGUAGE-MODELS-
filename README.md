@@ -33,7 +33,7 @@ Le processus de contrôle se déroule comme suit :
 
 ## Installation
 
-1. Clonez ce dépôt : `git clone https://github.com/votre_nom_utilisateur/votre_depot.git`
+1. Clonez ce dépôt : `git clone https://github.com/BKS00/CONTROLE-DYNAMIQUE-DES-CIRCUITS-ELECTRIQUES-GRACE-AUX-LLM-LARGE-LANGUAGE-MODELS-.git`
 2. Installez les dépendances Python : `pip install -r requirements.txt`
 3. Installez l'IDE Arduino et configurez-le pour votre carte Arduino UNO R3.
 4. Configurez l'accès aux API des LLM (si nécessaire) en suivant les instructions spécifiques à chaque modèle.
