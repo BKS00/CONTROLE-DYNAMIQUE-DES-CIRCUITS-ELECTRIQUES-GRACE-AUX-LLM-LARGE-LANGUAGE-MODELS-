@@ -1,0 +1,6 @@
+# Fichier: requirements.txt
+
+# Dépendances principales pour l'application
+huggingface-hub
+pyserial
+python-dotenv
